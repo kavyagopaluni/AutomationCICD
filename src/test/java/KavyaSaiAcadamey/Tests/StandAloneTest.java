@@ -20,6 +20,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+//Comments are updated
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		String prodName="IPHONE 13 PRO";
